@@ -1,0 +1,13 @@
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.csprojAssemblyReference.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.AssemblyInfoInputs.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.AssemblyInfo.cs
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.exe
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.deps.json
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.runtimeconfig.json
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.runtimeconfig.dev.json
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.dll
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\bin\Debug\netcoreapp3.1\QuestionMax.pdb
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.dll
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.pdb
+C:\Users\Maxime\OneDrive\Bureau\dev\laManu\projets_groupes\QuizzCSharp\QuizzCSharp\QuestionMax\obj\Debug\netcoreapp3.1\QuestionMax.genruntimeconfig.cache
