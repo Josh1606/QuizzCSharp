@@ -7,6 +7,39 @@ namespace QuestionMax
     {
         static void Main(string[] args)
         {
+            static void wrongAnswer()
+            {
+                Console.BackgroundColor = ConsoleColor.Red;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Red;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.WriteLine("Mauvaise réponse...");
+            }
+            static void goodAnswer()
+            {
+                Console.BackgroundColor = ConsoleColor.Green;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Green;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Clear();
+                Thread.Sleep(100);
+                Console.WriteLine("Bonne réponse !!!");
+            }
+
             string answer = "";
             int score = 0;
             Console.WriteLine("Pourquoi le nom C# (C Sharp) ? \r\n\r\n" +
@@ -18,11 +51,11 @@ namespace QuestionMax
             if(answer == "c" || answer == "C")
             {
                 score++;
-                Console.WriteLine("Bonne réponse !");
+                goodAnswer();
             }
             else
             {
-                Console.WriteLine("Mauvaise réponse...");
+                wrongAnswer();
             }
             Thread.Sleep(3000);
             Console.Clear();
@@ -35,11 +68,11 @@ namespace QuestionMax
             if (answer == "a" || answer == "A")
             {
                 score++;
-                Console.WriteLine("Bonne réponse !");
+                goodAnswer();
             }
             else
             {
-                Console.WriteLine("Mauvaise réponse...");
+                wrongAnswer();
             }
             Console.WriteLine("Votre score est : " + score);
             Thread.Sleep(3000);
