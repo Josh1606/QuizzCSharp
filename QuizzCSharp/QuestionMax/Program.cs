@@ -39,7 +39,6 @@ namespace QuestionMax
                 Thread.Sleep(100);
                 Console.WriteLine("Bonne réponse !!!");
             }
-
             string answer = "";
             int score = 0;
             Console.WriteLine("Pourquoi le nom C# (C Sharp) ? \r\n\r\n" +
@@ -57,7 +56,7 @@ namespace QuestionMax
             {
                 wrongAnswer();
             }
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             Console.Clear();
             Console.WriteLine("Pourquoi dit-on que le C# est fortement typé ? \r\n\r\n" +
                 "Réponse A : Car il faut préciser le type de la variable quand on la déclare\r\n" +
@@ -75,7 +74,7 @@ namespace QuestionMax
                 wrongAnswer();
             }
             Console.WriteLine("Votre score est : " + score);
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             Console.Clear();
         }
     }
