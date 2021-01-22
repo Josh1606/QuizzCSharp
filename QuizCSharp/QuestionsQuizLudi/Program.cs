@@ -17,6 +17,7 @@ Votre équipe pourra faire une proposition plus complète à l'agence de recrute
             string IDEAnswer;
             int goodAnswers = 0;
 
+
             Console.WriteLine("Quel est l'IDE pour coder C#? \r\n "+
                 "A) Atom \r\n" +
                 "B) Visual Studio \r\n" +
@@ -44,7 +45,11 @@ Votre équipe pourra faire une proposition plus complète à l'agence de recrute
             };
 
             String doYouLoveTheBoss;
-            Console.WriteLine("Que pensez vous de votre chef de projet? A) Au top! tellement bon qu'il a tout fait tout seul b) Mouaip, ca va , mais peut mieux faire C) A Eviter D) AU SECOURS!!!!! A L'AIDE!!!!!!!!!");
+            Console.WriteLine("Que pensez vous de votre chef de projet?\r\n" +
+                " A) Au top! tellement bon qu'il a tout fait tout seul\r\n" +
+                " b) Mouaip, ca va , mais peut mieux faire \r\n" +
+                "C) A Eviter\r\n" +
+                " D) AU SECOURS!!!!! A L'AIDE!!!!!!!!!");
             doYouLoveTheBoss = Console.ReadLine();
 
             if (doYouLoveTheBoss == "A")
@@ -65,7 +70,12 @@ Votre équipe pourra faire une proposition plus complète à l'agence de recrute
             };
 
             string howSaveUsersAnswers;
-            Console.WriteLine("Comment stocker les reponses données par les utilisateurs? A) avec un Console.readLine(); B) avec HTML C)en faisant un Ctrl+S, D) sais pas moua....");
+            Console.WriteLine("Comment stocker les reponses données par les utilisateurs?\r\n" +
+                " A) avec un Console.readLine();\r\n" +
+                " B) avec HTML \r\n" +
+                "C)en faisant un Ctrl+S\r\n" +
+                " D) sais pas moua....");
+
             howSaveUsersAnswers = Console.ReadLine();
 
             if (howSaveUsersAnswers == "B")
