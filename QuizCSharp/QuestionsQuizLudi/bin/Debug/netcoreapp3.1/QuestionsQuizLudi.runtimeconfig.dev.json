@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ludiv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ludiv\\.nuget\\packages"
+    ]
+  }
+}

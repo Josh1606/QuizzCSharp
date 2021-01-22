@@ -1,0 +1,13 @@
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.csprojAssemblyReference.cache
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.AssemblyInfoInputs.cache
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.AssemblyInfo.cs
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.csproj.CoreCompileInputs.cache
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.exe
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.deps.json
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.runtimeconfig.json
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.runtimeconfig.dev.json
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.dll
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\bin\Debug\netcoreapp3.1\QuestionsQuizLudi.pdb
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.dll
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.pdb
+C:\Users\ludiv\developpement\Projets\QuizCSharp\QuizCSharp\QuestionsQuizLudi\obj\Debug\netcoreapp3.1\QuestionsQuizLudi.genruntimeconfig.cache
