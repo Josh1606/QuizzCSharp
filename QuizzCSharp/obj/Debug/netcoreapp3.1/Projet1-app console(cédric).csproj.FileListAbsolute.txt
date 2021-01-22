@@ -11,3 +11,16 @@ C:\Users\Nwahb\OneDrive\Documents\Developpement web\Projet 1-Application Console
 C:\Users\Nwahb\OneDrive\Documents\Developpement web\Projet 1-Application Console\Projet1-app console(cédric)\Projet1-app console(cédric)\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).dll
 C:\Users\Nwahb\OneDrive\Documents\Developpement web\Projet 1-Application Console\Projet1-app console(cédric)\Projet1-app console(cédric)\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).pdb
 C:\Users\Nwahb\OneDrive\Documents\Developpement web\Projet 1-Application Console\Projet1-app console(cédric)\Projet1-app console(cédric)\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).genruntimeconfig.cache
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).csprojAssemblyReference.cache
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).AssemblyInfoInputs.cache
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).AssemblyInfo.cs
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).csproj.CoreCompileInputs.cache
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).dll
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).pdb
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).exe
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).deps.json
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).runtimeconfig.json
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).runtimeconfig.dev.json
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).dll
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\bin\Debug\netcoreapp3.1\Projet1-app console(cédric).pdb
+C:\Users\Nwahb\OneDrive\Documents\Developpement web\QuizzCSharp\QuizzCSharp\obj\Debug\netcoreapp3.1\Projet1-app console(cédric).genruntimeconfig.cache

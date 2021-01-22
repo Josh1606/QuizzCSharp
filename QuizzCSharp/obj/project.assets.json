@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj",
+      "projectUniqueName": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\QuizzCSharp\\Projet1-app console(cédric).csproj",
       "projectName": "Projet1-app console(cédric)",
-      "projectPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj",
+      "projectPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\QuizzCSharp\\Projet1-app console(cédric).csproj",
       "packagesPath": "C:\\Users\\Nwahb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\obj\\",
+      "outputPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\QuizzCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nwahb\\AppData\\Roaming\\NuGet\\NuGet.Config",
