@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Media;
 
 namespace Projet_1_Quizz
 {
@@ -54,6 +55,8 @@ namespace Projet_1_Quizz
                 }
                 string answer = "";
                 int score = 0;
+                Console.SetWindowSize(200, 50);
+                Console.SetWindowPosition(0, 0);
 
                 while(answer != "n")
                 {
@@ -67,6 +70,7 @@ namespace Projet_1_Quizz
                         "D) La réponse D \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -106,6 +110,7 @@ namespace Projet_1_Quizz
                         "D) Dictée magique \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -145,6 +150,7 @@ namespace Projet_1_Quizz
                         "D) Car son type est trop fort \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -184,6 +190,7 @@ namespace Projet_1_Quizz
                         "D) //; /*; */; etc... \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -223,6 +230,7 @@ namespace Projet_1_Quizz
                         "D) A convertir en type string. \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -262,6 +270,7 @@ namespace Projet_1_Quizz
                         "D) Je sais pas moua.... \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -301,6 +310,7 @@ namespace Projet_1_Quizz
                         "D) Console.EnumLine(); \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -340,6 +350,7 @@ namespace Projet_1_Quizz
                         "D) La Mer Noire \r\n");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -379,6 +390,7 @@ namespace Projet_1_Quizz
                         "D) Parce que le C et le C++ devenaient trop compliqué pour programmer les applications. ");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -418,6 +430,7 @@ namespace Projet_1_Quizz
                         "D) Ah bon ? Il y a une différence ? ");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -457,6 +470,7 @@ namespace Projet_1_Quizz
                         "D) AU SECOURS!!!!! A L'AIDE!!!!!!!!!");
 
                     answer = Console.ReadLine();
+                    Console.Beep();
 
                     if (answer == "a" || answer == "A")
                     {
@@ -489,6 +503,7 @@ namespace Projet_1_Quizz
                         "Ton score est de : " + score + "/10 \r\n\r\n" +
                         "Voulez-vous rejouer ? (y/n)");
                     answer = Console.ReadLine();
+                    Console.Beep();
                 }
             }
         }
