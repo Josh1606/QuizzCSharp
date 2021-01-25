@@ -499,9 +499,31 @@ namespace Projet_1_Quizz
                     }
                     Thread.Sleep(2000);
                     Console.Clear();
+                    string scoreMessage = "";
+                    if (score <= 3)
+                    {
+                        scoreMessage = "Cas désespéré on ne peut plus rien faire pour toi...";
+                    }
+                    else if (score > 3 && score <=6)
+                    {
+                        scoreMessage = "Remet un jeton et essaye une nouvelle fois";
+                    }
+                    else if (score > 6 && score <= 9)
+                    {
+                        scoreMessage = "Bonne note mais t'a pas eu 10 !";
+                    }
+                    else if (score == 10)
+                    {
+                        scoreMessage = "All good (for this moment...)";
+                    }
+                    else
+                    {
+                        scoreMessage = "Suppression du System32 en cours...\r\n" +
+                            "Veuillez patienter...";
+                    }
                     Console.WriteLine("Alors, alors... As-tu bien appris en cours ?\r\n" +
-                        "Ton score est de : " + score + "/10 \r\n\r\n" +
-                        "Voulez-vous rejouer ? (y/n)");
+                        "Ton score est de : " + score + "/10 \r\n" + scoreMessage + "\r\n" +
+                        "Voulez-vous rejouer ? (y/n)"); ;
                     answer = Console.ReadLine();
                     Console.Beep();
                 }
