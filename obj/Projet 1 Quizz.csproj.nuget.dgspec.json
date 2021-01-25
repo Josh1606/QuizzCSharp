@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\ProjetQuizz\\Projet 1 Quizz.csproj": {}
+    "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\QuizzCSharp\\Projet 1 Quizz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\ProjetQuizz\\Projet 1 Quizz.csproj": {
+    "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\QuizzCSharp\\Projet 1 Quizz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\ProjetQuizz\\Projet 1 Quizz.csproj",
+        "projectUniqueName": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\QuizzCSharp\\Projet 1 Quizz.csproj",
         "projectName": "Projet 1 Quizz",
-        "projectPath": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\ProjetQuizz\\Projet 1 Quizz.csproj",
+        "projectPath": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\QuizzCSharp\\Projet 1 Quizz.csproj",
         "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\ProjetQuizz\\obj\\",
+        "outputPath": "C:\\Users\\Maxime\\OneDrive\\Bureau\\dev\\laManu\\projets_groupes\\QuizzCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
