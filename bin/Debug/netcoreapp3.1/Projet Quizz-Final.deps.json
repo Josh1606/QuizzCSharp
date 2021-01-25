@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Projet1-app console(cédric)/1.0.0": {
+      "Projet Quizz-Final/1.0.0": {
         "runtime": {
-          "Projet1-app console(cédric).dll": {}
+          "Projet Quizz-Final.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Projet1-app console(cédric)/1.0.0": {
+    "Projet Quizz-Final/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

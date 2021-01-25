@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj": {}
+    "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\Projet Quizz-Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj": {
+    "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\Projet Quizz-Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj",
-        "projectName": "Projet1-app console(cédric)",
-        "projectPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\Projet1-app console(cédric).csproj",
+        "projectUniqueName": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\Projet Quizz-Final.csproj",
+        "projectName": "Projet Quizz-Final",
+        "projectPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\Projet Quizz-Final.csproj",
         "packagesPath": "C:\\Users\\Nwahb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\Projet 1-Application Console\\Projet1-app console(cédric)\\Projet1-app console(cédric)\\obj\\",
+        "outputPath": "C:\\Users\\Nwahb\\OneDrive\\Documents\\Developpement web\\QuizzCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nwahb\\AppData\\Roaming\\NuGet\\NuGet.Config",
